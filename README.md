@@ -5,5 +5,9 @@ Tool to disable Windows 11 Update for Windows 10.
 
 This tool disables it through the registry. Group Policy support coming soon.
 
+## Requirements:
+- .NET Framework 4.8.1
+- Windows 10 20H2 or later
+
 ## How to Install?
 Go to Releases page and download the exe.
